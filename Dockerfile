@@ -6,4 +6,4 @@ RUN apt-get update && \
     apt-get install -qy poppler-utils
     
 # Command prompt
-CMD /bin/bash
+CMD /bin/sh
